@@ -1,0 +1,3 @@
+[submodule "scripts/synth-shell"]
+	path = scripts/synth-shell
+	url = https://github.com/andresgongora/synth-shell.git
