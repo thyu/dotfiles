@@ -107,6 +107,7 @@ call plug#begin()
 Plug 'scrooloose/nerdtree'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'dart-lang/dart-vim-plugin'
 call plug#end()
 
 " Run PlugInstall if there are missing plugins
