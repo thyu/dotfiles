@@ -20,4 +20,7 @@ def main():
     # install .bash_profile 
     update_symlink(this_path / ".bash_profile", home_path / ".bash_profile")
 
+    # print out done message
+    print("Done!")
+
 main()
